@@ -5,8 +5,8 @@
 %global crate predicates-core
 
 Name:           rust-%{crate}
-Version:        1.0.0
-Release:        2%{?dist}
+Version:        1.0.10
+Release:        1%{?dist}
 Summary:        API for boolean-valued predicate functions
 
 # Upstream license specification: MIT/Apache-2.0
